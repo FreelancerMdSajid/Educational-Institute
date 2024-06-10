@@ -54,6 +54,28 @@ nav a:hover {
   object-fit: cover;
 }
 
+.courseDetails {
+  background-color: #1C1C84;
+  height: 500px;
+  
+}
+.courseDetails li {
+  list-style: none;
+  background-color: #15155c;
+  border: 1px solid;
+  border-radius: 25px;
+  width: 30%;
+  float: left;
+  margin: 10px 20px;
+  height: 300px;
+  text-align: center;
+  padding-top: 50px;
+
+}
+.courseDetails li:hover {
+  background-color: #20206b;
+}
+
 /* About Page  */
 .staff-profile {
   background-color: #e0f7f4;
